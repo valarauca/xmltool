@@ -1,0 +1,8 @@
+[package]
+name = "xmltool"
+version = "0.1.0"
+authors = ["valarauca <valarauca@localhost.localdomain>"]
+
+[dependencies]
+xml-rs = "0.6.1"
+clap = "2.26.1"
